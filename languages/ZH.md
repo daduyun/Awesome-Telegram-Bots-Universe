@@ -5,9 +5,45 @@
 ---
 
 ## 📑 目录
+- [搜索工具](#搜索工具)
+- [群组管理](#群组管理)
+- [频道管理](#频道管理)
 - [效率工具](#效率工具)
 - [娱乐游戏](#娱乐游戏)
 - [学习资源](#学习资源)
+
+---
+
+## 🔎 搜索工具
+| 排名 | 机器人名称      | 功能简介                     | 直达链接                     |
+|------|-----------------|------------------------------|------------------------------|
+| 1    | **@GlobalSearchBot** | 全网Telegram群组/频道搜索 | [点击使用](https://t.me/GlobalSearchBot) |
+| 2    | @ContentFinderBot   | 按关键词搜索历史消息        | [立即体验](https://t.me/ContentFinderBot) |
+| 3    | @ChannelAnalytics   | 频道数据分析+热门内容挖掘   | [查看报告](https://t.me/ChannelAnalyticsBot) |
+| 4    | @StickerSearchBot   | 表情包/贴纸精准搜索         | [斗图必备](https://t.me/StickerSearchBot) |
+| 5    | @VideoSearchBot     | 视频文件跨群组搜索          | [媒体搜索](https://t.me/VideoSearchBot) |
+
+---
+
+## 👥 群组管理
+| 排名 | 机器人名称      | 核心功能                     | 特色亮点                     |
+|------|-----------------|------------------------------|------------------------------|
+| 1    | **@Combot**     | <ul><li>成员行为分析</li><li>反垃圾消息</li></ul> | ![统计](https://img.shields.io/badge/-实时统计-blue) |
+| 2    | @GroupHelpBot   | <ul><li>自动欢迎消息</li><li>权限分级</li></ul> | ![多语言](https://img.shields.io/badge/-支持中文-green) |
+| 3    | @ShieldyBot     | <ul><li>新人验证系统</li><li>自动封禁广告</li></ul> | ![开源](https://img.shields.io/badge/-开源项目-orange) |
+| 4    | @ChatAdminBot   | <ul><li>批量消息删除</li><li>敏感词过滤</li></ul> | ![API](https://img.shields.io/badge/-深度定制-yellow) |
+| 5    | @RoseBot        | <ul><li>自动回复</li><li>定时任务</li></ul> | ![教程](https://img.shields.io/badge/-中文文档-9cf) |
+
+---
+
+## 📢 频道管理
+| 排名 | 机器人名称      | 核心功能                     | 使用场景                     |
+|------|-----------------|------------------------------|------------------------------|
+| 1    | **@ChannelBot** | <ul><li>自动同步内容</li><li>跨频道转发</li></ul> | 多频道运营管理               |
+| 2    | @PostGuardBot   | <ul><li>定时发布</li><li>内容排期</li></ul> | 媒体内容策划                 |
+| 3    | @SubscribersBot | <ul><li>粉丝增长统计</li><li>用户画像分析</li></ul> | 频道数据分析                 |
+| 4    | @AutoPostBot    | <ul><li>RSS订阅推送</li><li>网页内容抓取</li></ul> | 资讯聚合频道                 |
+| 5    | @CopyrightGuard | <ul><li>内容版权保护</li><li>盗版追踪</li></ul> | 原创内容防护                 |
 
 ---
 
