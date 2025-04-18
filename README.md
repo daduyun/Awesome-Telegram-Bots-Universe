@@ -1,6 +1,6 @@
 # 🚀 Awesome Telegram Bots Universe [![Stars](https://img.shields.io/github/stars/yourusername/awesome-telegram-bots-universe?style=social)](https://github.com/yourusername/awesome-telegram-bots-universe)
 
-![Banner](assets/telegram-bots-banner.png)
+![Banner](assets/banner.png)
 
 *"Discover the ultimate collection of Telegram bots across 10 categories, available in 10 languages - your gateway to the Telegram bot ecosystem!"*
 
