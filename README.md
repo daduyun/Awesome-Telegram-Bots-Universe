@@ -6,11 +6,6 @@
 
 ---
 
-## 🌍 支持语言 
-[English](languages/EN.md) | [中文](languages/ZH.md) | [Español](languages/ES.md) |  [Français](languages/FR.md) | [Deutsch](languages/DE.md) | [日本語](languages/JA.md) |  [Русский](languages/RU.md) | [Português](languages/PT.md) | [العربية](languages/AR.md) |  [한국어](languages/KO.md) | [हिंदी](languages/HI.md)
-
----
-
 ## 🌟 为什么选择这个仓库？
 ✅ **精准分类** - 覆盖10大高频使用场景  
 ✅ **多语言支持** - 中/英/西/日/俄等10种语言  
@@ -30,7 +25,7 @@
 ---
 
 ## 🌍 支持语言
-[English](languages/EN.md) | [中文](languages/ZH.md) | [Español](languages/ES.md) | [日本語](languages/JA.md) | [Русский](languages/RU.md)
+[English](languages/EN.md) | [中文](languages/ZH.md) | [Español](languages/ES.md) |  [Français](languages/FR.md) | [Deutsch](languages/DE.md) | [日本語](languages/JA.md) |  [Русский](languages/RU.md) | [Português](languages/PT.md) | [العربية](languages/AR.md) |  [한국어](languages/KO.md) | [हिंदी](languages/HI.md)
 
 ---
 
